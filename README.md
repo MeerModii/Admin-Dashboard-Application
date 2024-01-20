@@ -10,6 +10,7 @@ This Java and JavaFX application serves as an admin dashboard for a company, pro
 - Option to switch between bar graphs and pie charts
 - MySQL database integration for storing and retrieving data
 - Java JDBC for seamless database connectivity
+- Ability to search for customers and view their information along with their orders.
 
 ## Technologies used
 
@@ -28,3 +29,4 @@ This Java and JavaFX application serves as an admin dashboard for a company, pro
 
 ![img.png](img.png)
 ![img_1.png](img_1.png)
+![img_2.png](img_2.png)
